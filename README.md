@@ -4,14 +4,11 @@
 This particular model is the 930 generation built in West Germany between 1975 and 1989, a Turbo version with a 3.0 liter air-cooled, turbocharged engine. Credits to **Lionsharp Studios** and
 copyrights to the vehicle design belong to Porsche AG.
 
-## Technologies Used:
+## Technologies and Libraries Used:
 
 - HTML
 - CSS
 - JavaScript (ES6)
-
-## Libraries Used:
-
 - [Three.js](https://threejs.org/ )
 
 ## Credits + Licenses
